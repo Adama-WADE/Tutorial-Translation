@@ -4,10 +4,13 @@ theme: uncover
 paginate: true
 style: |
     section{
-      width: 35cm;
-      height: 25cm;
+      width: 32cm;
+      height: 19cm;
       justify-content: flex-start;
     }
+    section.lead h6 {text-align: bottom;}
+    section.lead header {font-weight: bold;}
+    
 ---
 
 
@@ -25,207 +28,111 @@ style: |
 
 ---
 # Main user interface
-![height:12cm](images/Slide-3.jpg)
+![height:11cm](images/Slide-3.jpg)
 
 ---
 # Load Sample MRI Data
-![height:12cm](images/Slide-4.jpg)
+![height:11cm](images/Slide-4.jpg)
 
 ---
 # Load Sample MRI Data
-![height:12cm](images/Slide-5.jpg)
+![height:11cm](images/Slide-5.jpg)
 
 ---
-# Load Sample MRI Data
-![height:12cm](images/Slide-6.png)
-Where does this go
-##### How about this?
+<!-- _class: lead -->
+![ bg right height:11cm](images/Slide-6.png)
+## Load Sample MRI Data
+###### The axial, sagittal, and coronal views automatically show  the loaded volume
 
 ---
-# Adjust window/level
-![height:12cm](images/Slide-7.png)
+## Adjust window/level
+![bg right height:11cm](images/Slide-7.jpg)
+##### Switch to window/level mouse mode
 
 ---
-# Adjust window/level
-![height:12cm](images/Slide-8.png)
+## Adjust window/level
+![bg right height:11cm](images/Slide-8.png)
+##### Adjust window/level (brightness/contrast) using the left mouse button on a slice view
+
 
 ---
 ### Switch back to view/transform mode
-![height:12cm](images/Slide-9.jpg)
+![height:11cm](images/Slide-9.jpg)
 
 ---
 # Maximize view
-![height:12cm](images/Slide-10.jpg)
+![height:11cm](images/Slide-10.jpg)
 
 ---
 # Slice view options
-![height:12cm](images/Slide-11.png)
+![bg right height:11cm](images/Slide-11.png)
+##### Position your mouse cursor over the pin icon to display the slice view toolbar
 
 ---
 # Slice view options
-![height:12cm](images/Slide-12.jpg)
+![ bg right height:11cm](images/Slide-12.jpg)
+##### Once the slice viewer toolbar is shown, click on the “>>”
 
 ---
 # Show ruler
-![height:12cm](images/Slide-13.jpg)
+![height:11cm](images/Slide-13.jpg)
 
 ---
-# Rotate to volume plane
-![height:12cm](images/Slide-14.jpg)
+##### Rotate to volume plane
+![bg right height:11cm](images/Slide-14.jpg)
+###### Often, MRI volumes are not axis-aligned. To show the true axial view, click the **‘Rotate to volume plane’** button.
+###### Note: This image will not be affected, but many DICOM MR images need to be aligned.
 
 ---
 ## Switch to conventional layout
-![height:12cm](images/Slide-15.jpg)
+![height:11cm](images/Slide-15.jpg)
 
 ---
 # Link views
-![height:12cm](images/Slide-16.jpg)
+![bg right height:11cm](images/Slide-16.jpg)
+After linking views, if any setting is changed in a 2D view, all others follow.
+
+---
+### Show slices in 3D
+![bg right height:11cm](images/Slide-17.jpg)
+Now the slice views are linked. If you click the **‘Toggle slice visibility in 3D view’** button, then all slices will show up.
 
 ---
 # Show slices in 3D
-![height:12cm](images/Slide-17.jpg)
-
----
-# Show slices in 3D
-![height:12cm](images/Slide-18.png)
+![bg right height:11cm](images/Slide-18.png)
+All three anatomical slices are shown in the 3D view
 
 ---
 # Navigating the 3D view
-![height:12cm](images/Slide-19.png)
+![bg right height:11cm](images/Slide-19.png)
+Use the left mouse button to **rotate**, and the right mouse button to **zoom** in and out
 
 ---
 # Close the scene
-![height:12cm](images/Slide-20.jpg)
+![height:11cm](images/Slide-20.jpg)
 
 ---
 ### Part 2: 3D visualization of surface models of the brain
-![height:12cm](images/Slide-21.png)
+![height:11cm](images/Slide-21.png)
 
 ---
-# Load tutorial scene
-![height:12cm](images/Slide-22.jpg)
+#### Load tutorial scene
+![bg right height:11cm](images/Slide-22.jpg)
+Drag and drop the file VisualizationTutorial_HeadScene.mrb into Slicer, then click **OK**
 
 ---
 # Center view
-![height:12cm](images/Slide-23.jpg)
+![bg right height:11cm](images/Slide-23.jpg)
+Click on the small box icon to center the view, in 3D or in 2D
 
 ---
-# Explore loaded data
-![height:12cm](images/Slide-24.jpg)
+## Explore loaded data
+![bg right height:11cm](images/Slide-24.jpg)
+You can use the module list, or the favorite module toolbar to switch to the **Data module**
 
 ---
-# Explore loaded data
-![height:12cm](images/Slide-25.jpg)
-
----
-# Foreground image
-![height:12cm](images/Slide-26.jpg)
-
----
-# Create folder
-![height:12cm](images/Slide-27.jpg)
-
----
-# Context menu actions
-![height:12cm](images/Slide-28.png)
-
----
-# Rename folder
-![height:12cm](images/Slide-29.jpg)
-
----
-# Select multiple nodes
-![height:12cm](images/Slide-30.jpg)
-
----
-# Move nodes to folder
-![height:12cm](images/Slide-31.jpg)
-
----
-# Hide all nodes in folder
-![height:12cm](images/Slide-32.jpg)
-
----
-# Volume rendering
-![height:12cm](images/Slide-33.jpg)
-
----
-# Display options
-![height:12cm](images/Slide-34.jpg)
-
----
-# Adjust volume rendering
-![height:12cm](images/Slide-35.jpg)
-
----
-# Show models again
-![height:12cm](images/Slide-36.jpg)
-
----
-# Show models again
-![height:12cm](images/Slide-37.jpg)
-
----
-# Change skull model opacity
-![height:12cm](images/Slide-38.jpg)
-
----
-# Show axial slice in 3D
-![height:12cm](images/Slide-39.jpg)
-
----
-# Show coronal slice in 3D
-![height:12cm](images/Slide-40.jpg)
-
----
-# Model clipping
-![height:12cm](images/Slide-41.jpg)
-
----
-# Model clipping
-![height:12cm](images/Slide-42.jpg)
-
-
----
-# Model clipping
-![height:12cm](images/Slide-43.jpg)
-
----
-# Model clipping
-![height:12cm](images/Slide-44.jpg)
-
----
-# 3D display options
-![height:12cm](images/Slide-45.jpg)
-
----
-# Save the scene
-![height:12cm](images/Slide-46.jpg)
-
----
-# Save the scene
-![height:12cm](images/Slide-47.jpg)
-
----
-# Close the scene
-![height:12cm](images/Slide-48.jpg)
-
----
-# Load your recently saved scene
-![height:12cm](images/Slide-49.jpg)
-
----
-# Thanks for participating!
-![height:12cm](images/Slide-50.png)
-
----
-# Testing gradual list
-* one 
-* two
-* three
-
-1) one
-2) two
-3) three
-
-
+#### Explore loaded data
+![bg right height:11cm](images/Slide-25.jpg)
+###### The Data module shows all the data in the scene.
+###### The data items (“nodes”) can be shown/hidden, renamed, deleted, cloned, etc.
+###### Hide the **‘skin’** model by clicking the eye icon.
