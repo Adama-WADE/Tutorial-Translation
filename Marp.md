@@ -13,6 +13,7 @@ style: |
     
 ---
 
+[comment]: <> (Header ends here)
 
 ![3d slicer logo](images/3D-Slicer-logo.jpg)
 # 3D Slicer
@@ -33,6 +34,7 @@ style: |
 ---
 # Load Sample MRI Data
 ![height:11cm](images/Slide-4.jpg)
+
 
 ---
 # Load Sample MRI Data
@@ -71,7 +73,7 @@ style: |
 ---
 # Slice view options
 ![ bg right height:11cm](images/Slide-12.jpg)
-##### Once the slice viewer toolbar is shown, click on the “>>”
+##### Once the slice viewer toolbar is shown, click on the “>>”.
 
 ---
 # Show ruler
@@ -100,12 +102,12 @@ Now the slice views are linked. If you click the **‘Toggle slice visibility in
 ---
 # Show slices in 3D
 ![bg right height:11cm](images/Slide-18.png)
-All three anatomical slices are shown in the 3D view
+All three anatomical slices are shown in the 3D view.
 
 ---
 # Navigating the 3D view
 ![bg right height:11cm](images/Slide-19.png)
-Use the left mouse button to **rotate**, and the right mouse button to **zoom** in and out
+Use the left mouse button to **rotate**, and the right mouse button to **zoom** in and out.
 
 ---
 # Close the scene
@@ -118,7 +120,7 @@ Use the left mouse button to **rotate**, and the right mouse button to **zoom** 
 ---
 #### Load tutorial scene
 ![bg right height:11cm](images/Slide-22.jpg)
-Drag and drop the file VisualizationTutorial_HeadScene.mrb into Slicer, then click **OK**
+Drag and drop the file VisualizationTutorial_HeadScene.mrb into Slicer, then click **OK**.
 
 ---
 # Center view
