@@ -1,0 +1,1421 @@
+[
+    {
+        "children": [
+            {
+                "type": "thematic_break"
+            },
+            {
+                "children": [],
+                "type": "paragraph"
+            },
+            {
+                "literal": "marp: true",
+                "type": "text"
+            },
+            {
+                "type": "softbreak"
+            },
+            {
+                "literal": "theme: uncover",
+                "type": "text"
+            },
+            {
+                "type": "softbreak"
+            },
+            {
+                "literal": "paginate: true",
+                "type": "text"
+            },
+            {
+                "type": "softbreak"
+            },
+            {
+                "literal": "style: |",
+                "type": "text"
+            },
+            {
+                "type": "softbreak"
+            },
+            {
+                "literal": "section{",
+                "type": "text"
+            },
+            {
+                "type": "softbreak"
+            },
+            {
+                "literal": "width: 32cm;",
+                "type": "text"
+            },
+            {
+                "type": "softbreak"
+            },
+            {
+                "literal": "height: 19cm;",
+                "type": "text"
+            },
+            {
+                "type": "softbreak"
+            },
+            {
+                "literal": "justify-content: flex-start;",
+                "type": "text"
+            },
+            {
+                "type": "softbreak"
+            },
+            {
+                "literal": "}",
+                "type": "text"
+            },
+            {
+                "type": "softbreak"
+            },
+            {
+                "literal": "section.lead h6 {text-align: bottom;}",
+                "type": "text"
+            },
+            {
+                "type": "softbreak"
+            },
+            {
+                "literal": "section.lead header {font-weight: bold;}",
+                "type": "text"
+            }
+        ],
+        "type": "document"
+    },
+    {
+        "children": [
+            {
+                "type": "thematic_break"
+            },
+            {
+                "children": [],
+                "type": "paragraph"
+            },
+            {
+                "children": [],
+                "destination": "images/3D-Slicer-logo.jpg",
+                "type": "image"
+            },
+            {
+                "literal": "3d slicer logo",
+                "type": "text"
+            }
+        ],
+        "type": "paragraph"
+    },
+    {
+        "children": [],
+        "destination": "images/3D-Slicer-logo.jpg",
+        "type": "image"
+    },
+    {
+        "children": [
+            {
+                "children": [],
+                "type": "heading"
+            },
+            {
+                "literal": "3D Slicer",
+                "type": "text"
+            }
+        ],
+        "type": "paragraph"
+    },
+    {
+        "children": [
+            {
+                "children": [],
+                "type": "heading"
+            },
+            {
+                "literal": "Data Loading and ",
+                "type": "text"
+            },
+            {
+                "literal": "<br>",
+                "type": "html_inline"
+            },
+            {
+                "literal": " Visualization Tutorial",
+                "type": "text"
+            }
+        ],
+        "type": "heading"
+    },
+    {
+        "children": [
+            {
+                "type": "thematic_break"
+            },
+            {
+                "literal": "<!-- footer: ![height:1.5cm](images/tinyPerk.jpg) ![height:1.5cm](images/tinyEbantica.jpg) \"Laboratory for Percutaneous Surgery \u2013 Copyright \u00a9 Queen\u2019s University, 2022\" ![height:1.5cm](images/tinySlicer.jpg) -->",
+                "type": "html_block"
+            },
+            {
+                "children": [],
+                "type": "heading"
+            },
+            {
+                "literal": "Tutorial Dataset",
+                "type": "text"
+            }
+        ],
+        "type": "heading"
+    },
+    {
+        "children": [
+            {
+                "children": [],
+                "type": "heading"
+            },
+            {
+                "literal": "Please download the following datasets:",
+                "type": "text"
+            }
+        ],
+        "type": "heading"
+    },
+    {
+        "children": [
+            {
+                "children": [],
+                "type": "paragraph"
+            },
+            {
+                "children": [],
+                "destination": "https://github.com/PerkLab/PerkLabBootcamp/raw/master/Data/VisualizationTutorial_HeadScene.mrb",
+                "type": "link"
+            },
+            {
+                "literal": "https://github.com/PerkLab/PerkLabBootcamp/raw/master/Data/VisualizationTutorial_HeadScene.mrb",
+                "type": "text"
+            }
+        ],
+        "type": "heading"
+    },
+    {
+        "children": [],
+        "destination": "https://github.com/PerkLab/PerkLabBootcamp/raw/master/Data/VisualizationTutorial_HeadScene.mrb",
+        "type": "link"
+    },
+    {
+        "children": [
+            {
+                "type": "thematic_break"
+            },
+            {
+                "children": [],
+                "type": "heading"
+            },
+            {
+                "literal": "Main user interface",
+                "type": "text"
+            }
+        ],
+        "type": "paragraph"
+    },
+    {
+        "children": [
+            {
+                "children": [],
+                "type": "paragraph"
+            },
+            {
+                "children": [],
+                "destination": "images/Slide-3.jpg",
+                "type": "image"
+            },
+            {
+                "literal": "height:11cm",
+                "type": "text"
+            }
+        ],
+        "type": "heading"
+    },
+    {
+        "children": [],
+        "destination": "images/Slide-3.jpg",
+        "type": "image"
+    },
+    {
+        "children": [
+            {
+                "type": "thematic_break"
+            },
+            {
+                "children": [],
+                "type": "heading"
+            },
+            {
+                "literal": "Load Sample MRI Data",
+                "type": "text"
+            }
+        ],
+        "type": "paragraph"
+    },
+    {
+        "children": [
+            {
+                "children": [],
+                "type": "paragraph"
+            },
+            {
+                "children": [],
+                "destination": "images/Slide-4.jpg",
+                "type": "image"
+            },
+            {
+                "literal": "height:11cm",
+                "type": "text"
+            }
+        ],
+        "type": "heading"
+    },
+    {
+        "children": [],
+        "destination": "images/Slide-4.jpg",
+        "type": "image"
+    },
+    {
+        "children": [
+            {
+                "type": "thematic_break"
+            },
+            {
+                "children": [],
+                "type": "heading"
+            },
+            {
+                "literal": "Load Sample MRI Data",
+                "type": "text"
+            }
+        ],
+        "type": "paragraph"
+    },
+    {
+        "children": [
+            {
+                "children": [],
+                "type": "paragraph"
+            },
+            {
+                "children": [],
+                "destination": "images/Slide-5.jpg",
+                "type": "image"
+            },
+            {
+                "literal": "height:11cm",
+                "type": "text"
+            }
+        ],
+        "type": "heading"
+    },
+    {
+        "children": [],
+        "destination": "images/Slide-5.jpg",
+        "type": "image"
+    },
+    {
+        "children": [
+            {
+                "type": "thematic_break"
+            },
+            {
+                "literal": "<!-- _class: lead -->",
+                "type": "html_block"
+            },
+            {
+                "children": [],
+                "type": "paragraph"
+            },
+            {
+                "children": [],
+                "destination": "images/Slide-6.png",
+                "type": "image"
+            },
+            {
+                "literal": " bg right height:11cm",
+                "type": "text"
+            }
+        ],
+        "type": "paragraph"
+    },
+    {
+        "children": [],
+        "destination": "images/Slide-6.png",
+        "type": "image"
+    },
+    {
+        "children": [
+            {
+                "children": [],
+                "type": "heading"
+            },
+            {
+                "literal": "Load Sample MRI Data",
+                "type": "text"
+            }
+        ],
+        "type": "paragraph"
+    },
+    {
+        "children": [
+            {
+                "children": [],
+                "type": "heading"
+            },
+            {
+                "literal": "The axial, sagittal, and coronal views automatically show  the loaded volume",
+                "type": "text"
+            }
+        ],
+        "type": "heading"
+    },
+    {
+        "children": [
+            {
+                "type": "thematic_break"
+            },
+            {
+                "children": [],
+                "type": "heading"
+            },
+            {
+                "literal": "Adjust window/level",
+                "type": "text"
+            }
+        ],
+        "type": "heading"
+    },
+    {
+        "children": [
+            {
+                "children": [],
+                "type": "paragraph"
+            },
+            {
+                "children": [],
+                "destination": "images/Slide-7.jpg",
+                "type": "image"
+            },
+            {
+                "literal": "bg right height:11cm",
+                "type": "text"
+            }
+        ],
+        "type": "heading"
+    },
+    {
+        "children": [],
+        "destination": "images/Slide-7.jpg",
+        "type": "image"
+    },
+    {
+        "children": [
+            {
+                "children": [],
+                "type": "heading"
+            },
+            {
+                "literal": "Switch to window/level mouse mode",
+                "type": "text"
+            }
+        ],
+        "type": "paragraph"
+    },
+    {
+        "children": [
+            {
+                "type": "thematic_break"
+            },
+            {
+                "children": [],
+                "type": "heading"
+            },
+            {
+                "literal": "Adjust window/level",
+                "type": "text"
+            }
+        ],
+        "type": "heading"
+    },
+    {
+        "children": [
+            {
+                "children": [],
+                "type": "paragraph"
+            },
+            {
+                "children": [],
+                "destination": "images/Slide-8.png",
+                "type": "image"
+            },
+            {
+                "literal": "bg right height:11cm",
+                "type": "text"
+            }
+        ],
+        "type": "heading"
+    },
+    {
+        "children": [],
+        "destination": "images/Slide-8.png",
+        "type": "image"
+    },
+    {
+        "children": [
+            {
+                "children": [],
+                "type": "heading"
+            },
+            {
+                "literal": "Adjust window/level (brightness/contrast) using the left mouse button on a slice view",
+                "type": "text"
+            }
+        ],
+        "type": "paragraph"
+    },
+    {
+        "children": [
+            {
+                "type": "thematic_break"
+            },
+            {
+                "children": [],
+                "type": "heading"
+            },
+            {
+                "literal": "Switch back to view/transform mode",
+                "type": "text"
+            }
+        ],
+        "type": "heading"
+    },
+    {
+        "children": [
+            {
+                "children": [],
+                "type": "paragraph"
+            },
+            {
+                "children": [],
+                "destination": "images/Slide-9.jpg",
+                "type": "image"
+            },
+            {
+                "literal": "height:11cm",
+                "type": "text"
+            }
+        ],
+        "type": "heading"
+    },
+    {
+        "children": [],
+        "destination": "images/Slide-9.jpg",
+        "type": "image"
+    },
+    {
+        "children": [
+            {
+                "type": "thematic_break"
+            },
+            {
+                "children": [],
+                "type": "heading"
+            },
+            {
+                "literal": "Maximize view",
+                "type": "text"
+            }
+        ],
+        "type": "paragraph"
+    },
+    {
+        "children": [
+            {
+                "children": [],
+                "type": "paragraph"
+            },
+            {
+                "children": [],
+                "destination": "images/Slide-10.jpg",
+                "type": "image"
+            },
+            {
+                "literal": "height:11cm",
+                "type": "text"
+            }
+        ],
+        "type": "heading"
+    },
+    {
+        "children": [],
+        "destination": "images/Slide-10.jpg",
+        "type": "image"
+    },
+    {
+        "children": [
+            {
+                "type": "thematic_break"
+            },
+            {
+                "children": [],
+                "type": "heading"
+            },
+            {
+                "literal": "Slice view options",
+                "type": "text"
+            }
+        ],
+        "type": "paragraph"
+    },
+    {
+        "children": [
+            {
+                "children": [],
+                "type": "paragraph"
+            },
+            {
+                "children": [],
+                "destination": "images/Slide-11.png",
+                "type": "image"
+            },
+            {
+                "literal": "bg right height:11cm",
+                "type": "text"
+            }
+        ],
+        "type": "heading"
+    },
+    {
+        "children": [],
+        "destination": "images/Slide-11.png",
+        "type": "image"
+    },
+    {
+        "children": [
+            {
+                "children": [],
+                "type": "heading"
+            },
+            {
+                "literal": "Position your mouse cursor over the pin icon to display the slice view toolbar",
+                "type": "text"
+            }
+        ],
+        "type": "paragraph"
+    },
+    {
+        "children": [
+            {
+                "type": "thematic_break"
+            },
+            {
+                "children": [],
+                "type": "heading"
+            },
+            {
+                "literal": "Slice view options",
+                "type": "text"
+            }
+        ],
+        "type": "heading"
+    },
+    {
+        "children": [
+            {
+                "children": [],
+                "type": "paragraph"
+            },
+            {
+                "children": [],
+                "destination": "images/Slide-12.jpg",
+                "type": "image"
+            },
+            {
+                "literal": " bg right height:11cm",
+                "type": "text"
+            }
+        ],
+        "type": "heading"
+    },
+    {
+        "children": [],
+        "destination": "images/Slide-12.jpg",
+        "type": "image"
+    },
+    {
+        "children": [
+            {
+                "children": [],
+                "type": "heading"
+            },
+            {
+                "literal": "Once the slice viewer toolbar is shown, click on the \u201c>>\u201d.",
+                "type": "text"
+            }
+        ],
+        "type": "paragraph"
+    },
+    {
+        "children": [
+            {
+                "type": "thematic_break"
+            },
+            {
+                "children": [],
+                "type": "heading"
+            },
+            {
+                "literal": "Show ruler",
+                "type": "text"
+            }
+        ],
+        "type": "heading"
+    },
+    {
+        "children": [
+            {
+                "children": [],
+                "type": "paragraph"
+            },
+            {
+                "children": [],
+                "destination": "images/Slide-13.jpg",
+                "type": "image"
+            },
+            {
+                "literal": "height:11cm",
+                "type": "text"
+            }
+        ],
+        "type": "heading"
+    },
+    {
+        "children": [],
+        "destination": "images/Slide-13.jpg",
+        "type": "image"
+    },
+    {
+        "children": [
+            {
+                "type": "thematic_break"
+            },
+            {
+                "children": [],
+                "type": "heading"
+            },
+            {
+                "literal": "Rotate to volume plane",
+                "type": "text"
+            }
+        ],
+        "type": "paragraph"
+    },
+    {
+        "children": [
+            {
+                "children": [],
+                "type": "paragraph"
+            },
+            {
+                "children": [],
+                "destination": "images/Slide-14.jpg",
+                "type": "image"
+            },
+            {
+                "literal": "bg right height:11cm",
+                "type": "text"
+            }
+        ],
+        "type": "heading"
+    },
+    {
+        "children": [],
+        "destination": "images/Slide-14.jpg",
+        "type": "image"
+    },
+    {
+        "children": [
+            {
+                "children": [],
+                "type": "heading"
+            },
+            {
+                "literal": "Often, MRI volumes are not axis-aligned. To show the true axial view, click the ",
+                "type": "text"
+            },
+            {
+                "children": [],
+                "type": "strong"
+            },
+            {
+                "literal": "\u2018Rotate to volume plane\u2019",
+                "type": "text"
+            }
+        ],
+        "type": "paragraph"
+    },
+    {
+        "children": [
+            {
+                "literal": " button.",
+                "type": "text"
+            }
+        ],
+        "type": "strong"
+    },
+    {
+        "children": [
+            {
+                "children": [],
+                "type": "heading"
+            },
+            {
+                "literal": "Note: This image will not be affected, but many DICOM MR images need to be aligned.",
+                "type": "text"
+            }
+        ],
+        "type": "heading"
+    },
+    {
+        "children": [
+            {
+                "type": "thematic_break"
+            },
+            {
+                "children": [],
+                "type": "heading"
+            },
+            {
+                "literal": "Switch to conventional layout",
+                "type": "text"
+            }
+        ],
+        "type": "heading"
+    },
+    {
+        "children": [
+            {
+                "children": [],
+                "type": "paragraph"
+            },
+            {
+                "children": [],
+                "destination": "images/Slide-15.jpg",
+                "type": "image"
+            },
+            {
+                "literal": "height:11cm",
+                "type": "text"
+            }
+        ],
+        "type": "heading"
+    },
+    {
+        "children": [],
+        "destination": "images/Slide-15.jpg",
+        "type": "image"
+    },
+    {
+        "children": [
+            {
+                "type": "thematic_break"
+            },
+            {
+                "children": [],
+                "type": "heading"
+            },
+            {
+                "literal": "Link views",
+                "type": "text"
+            }
+        ],
+        "type": "paragraph"
+    },
+    {
+        "children": [
+            {
+                "children": [],
+                "type": "paragraph"
+            },
+            {
+                "children": [],
+                "destination": "images/Slide-16.jpg",
+                "type": "image"
+            },
+            {
+                "literal": "bg right height:11cm",
+                "type": "text"
+            }
+        ],
+        "type": "heading"
+    },
+    {
+        "children": [
+            {
+                "type": "softbreak"
+            },
+            {
+                "literal": "After linking views, if any setting is changed in a 2D view, all others follow.",
+                "type": "text"
+            }
+        ],
+        "destination": "images/Slide-16.jpg",
+        "type": "image"
+    },
+    {
+        "children": [
+            {
+                "type": "thematic_break"
+            },
+            {
+                "children": [],
+                "type": "heading"
+            },
+            {
+                "literal": "Show slices in 3D",
+                "type": "text"
+            }
+        ],
+        "type": "paragraph"
+    },
+    {
+        "children": [
+            {
+                "children": [],
+                "type": "paragraph"
+            },
+            {
+                "children": [],
+                "destination": "images/Slide-17.jpg",
+                "type": "image"
+            },
+            {
+                "literal": "bg right height:11cm",
+                "type": "text"
+            }
+        ],
+        "type": "heading"
+    },
+    {
+        "children": [
+            {
+                "type": "softbreak"
+            },
+            {
+                "literal": "Now the slice views are linked. If you click the ",
+                "type": "text"
+            },
+            {
+                "children": [],
+                "type": "strong"
+            },
+            {
+                "literal": "\u2018Toggle slice visibility in 3D view\u2019",
+                "type": "text"
+            }
+        ],
+        "destination": "images/Slide-17.jpg",
+        "type": "image"
+    },
+    {
+        "children": [
+            {
+                "literal": " button, then all slices will show up.",
+                "type": "text"
+            }
+        ],
+        "type": "strong"
+    },
+    {
+        "children": [
+            {
+                "type": "thematic_break"
+            },
+            {
+                "children": [],
+                "type": "heading"
+            },
+            {
+                "literal": "Show slices in 3D",
+                "type": "text"
+            }
+        ],
+        "type": "paragraph"
+    },
+    {
+        "children": [
+            {
+                "children": [],
+                "type": "paragraph"
+            },
+            {
+                "children": [],
+                "destination": "images/Slide-18.png",
+                "type": "image"
+            },
+            {
+                "literal": "bg right height:11cm",
+                "type": "text"
+            }
+        ],
+        "type": "heading"
+    },
+    {
+        "children": [
+            {
+                "type": "softbreak"
+            },
+            {
+                "literal": "All three anatomical slices are shown in the 3D view.",
+                "type": "text"
+            }
+        ],
+        "destination": "images/Slide-18.png",
+        "type": "image"
+    },
+    {
+        "children": [
+            {
+                "type": "thematic_break"
+            },
+            {
+                "children": [],
+                "type": "heading"
+            },
+            {
+                "literal": "Navigating the 3D view",
+                "type": "text"
+            }
+        ],
+        "type": "paragraph"
+    },
+    {
+        "children": [
+            {
+                "children": [],
+                "type": "paragraph"
+            },
+            {
+                "children": [],
+                "destination": "images/Slide-19.png",
+                "type": "image"
+            },
+            {
+                "literal": "bg right height:11cm",
+                "type": "text"
+            }
+        ],
+        "type": "heading"
+    },
+    {
+        "children": [
+            {
+                "type": "softbreak"
+            },
+            {
+                "literal": "Use the left mouse button to ",
+                "type": "text"
+            },
+            {
+                "children": [],
+                "type": "strong"
+            },
+            {
+                "literal": "rotate",
+                "type": "text"
+            }
+        ],
+        "destination": "images/Slide-19.png",
+        "type": "image"
+    },
+    {
+        "children": [
+            {
+                "literal": ", and the right mouse button to ",
+                "type": "text"
+            },
+            {
+                "children": [],
+                "type": "strong"
+            },
+            {
+                "literal": "zoom",
+                "type": "text"
+            }
+        ],
+        "type": "strong"
+    },
+    {
+        "children": [
+            {
+                "literal": " in and out.",
+                "type": "text"
+            }
+        ],
+        "type": "strong"
+    },
+    {
+        "children": [
+            {
+                "type": "thematic_break"
+            },
+            {
+                "children": [],
+                "type": "heading"
+            },
+            {
+                "literal": "Close the scene",
+                "type": "text"
+            }
+        ],
+        "type": "paragraph"
+    },
+    {
+        "children": [
+            {
+                "children": [],
+                "type": "paragraph"
+            },
+            {
+                "children": [],
+                "destination": "images/Slide-20.jpg",
+                "type": "image"
+            },
+            {
+                "literal": "height:11cm",
+                "type": "text"
+            }
+        ],
+        "type": "heading"
+    },
+    {
+        "children": [],
+        "destination": "images/Slide-20.jpg",
+        "type": "image"
+    },
+    {
+        "children": [
+            {
+                "type": "thematic_break"
+            },
+            {
+                "children": [],
+                "type": "heading"
+            },
+            {
+                "literal": "Part 2: 3D visualization of surface models of the brain",
+                "type": "text"
+            }
+        ],
+        "type": "paragraph"
+    },
+    {
+        "children": [
+            {
+                "children": [],
+                "type": "paragraph"
+            },
+            {
+                "children": [],
+                "destination": "images/Slide-21.png",
+                "type": "image"
+            },
+            {
+                "literal": "height:11cm",
+                "type": "text"
+            }
+        ],
+        "type": "heading"
+    },
+    {
+        "children": [],
+        "destination": "images/Slide-21.png",
+        "type": "image"
+    },
+    {
+        "children": [
+            {
+                "type": "thematic_break"
+            },
+            {
+                "children": [],
+                "type": "heading"
+            },
+            {
+                "literal": "Load tutorial scene",
+                "type": "text"
+            }
+        ],
+        "type": "paragraph"
+    },
+    {
+        "children": [
+            {
+                "children": [],
+                "type": "paragraph"
+            },
+            {
+                "children": [],
+                "destination": "images/Slide-22.jpg",
+                "type": "image"
+            },
+            {
+                "literal": "bg right height:11cm",
+                "type": "text"
+            }
+        ],
+        "type": "heading"
+    },
+    {
+        "children": [
+            {
+                "type": "softbreak"
+            },
+            {
+                "literal": "Drag and drop the file VisualizationTutorial",
+                "type": "text"
+            },
+            {
+                "literal": "_",
+                "type": "text"
+            },
+            {
+                "literal": "HeadScene.mrb into Slicer, then click ",
+                "type": "text"
+            },
+            {
+                "children": [],
+                "type": "strong"
+            },
+            {
+                "literal": "OK",
+                "type": "text"
+            }
+        ],
+        "destination": "images/Slide-22.jpg",
+        "type": "image"
+    },
+    {
+        "children": [
+            {
+                "literal": ".",
+                "type": "text"
+            }
+        ],
+        "type": "strong"
+    },
+    {
+        "children": [
+            {
+                "type": "thematic_break"
+            },
+            {
+                "children": [],
+                "type": "heading"
+            },
+            {
+                "literal": "Center view",
+                "type": "text"
+            }
+        ],
+        "type": "paragraph"
+    },
+    {
+        "children": [
+            {
+                "children": [],
+                "type": "paragraph"
+            },
+            {
+                "children": [],
+                "destination": "images/Slide-23.jpg",
+                "type": "image"
+            },
+            {
+                "literal": "bg right height:11cm",
+                "type": "text"
+            }
+        ],
+        "type": "heading"
+    },
+    {
+        "children": [
+            {
+                "type": "softbreak"
+            },
+            {
+                "literal": "Click on the small box icon to center the view, in 3D or in 2D",
+                "type": "text"
+            }
+        ],
+        "destination": "images/Slide-23.jpg",
+        "type": "image"
+    },
+    {
+        "children": [
+            {
+                "type": "thematic_break"
+            },
+            {
+                "children": [],
+                "type": "heading"
+            },
+            {
+                "literal": "Explore loaded data",
+                "type": "text"
+            }
+        ],
+        "type": "paragraph"
+    },
+    {
+        "children": [
+            {
+                "children": [],
+                "type": "paragraph"
+            },
+            {
+                "children": [],
+                "destination": "images/Slide-24.jpg",
+                "type": "image"
+            },
+            {
+                "literal": "bg right height:11cm",
+                "type": "text"
+            }
+        ],
+        "type": "heading"
+    },
+    {
+        "children": [
+            {
+                "type": "softbreak"
+            },
+            {
+                "literal": "You can use the module list, or the favorite module toolbar to switch to the ",
+                "type": "text"
+            },
+            {
+                "children": [],
+                "type": "strong"
+            },
+            {
+                "literal": "Data module",
+                "type": "text"
+            }
+        ],
+        "destination": "images/Slide-24.jpg",
+        "type": "image"
+    },
+    {
+        "children": [],
+        "type": "strong"
+    },
+    {
+        "children": [
+            {
+                "type": "thematic_break"
+            },
+            {
+                "children": [],
+                "type": "heading"
+            },
+            {
+                "literal": "Explore loaded data",
+                "type": "text"
+            }
+        ],
+        "type": "paragraph"
+    },
+    {
+        "children": [
+            {
+                "children": [],
+                "type": "paragraph"
+            },
+            {
+                "children": [],
+                "destination": "images/Slide-25.jpg",
+                "type": "image"
+            },
+            {
+                "literal": "bg right height:11cm",
+                "type": "text"
+            }
+        ],
+        "type": "heading"
+    },
+    {
+        "children": [],
+        "destination": "images/Slide-25.jpg",
+        "type": "image"
+    },
+    {
+        "children": [
+            {
+                "children": [],
+                "type": "heading"
+            },
+            {
+                "literal": "The Data module shows all the data in the scene.",
+                "type": "text"
+            }
+        ],
+        "type": "paragraph"
+    },
+    {
+        "children": [
+            {
+                "children": [],
+                "type": "heading"
+            },
+            {
+                "literal": "The data items (\u201cnodes\u201d) can be shown/hidden, renamed, deleted, cloned, etc.",
+                "type": "text"
+            }
+        ],
+        "type": "heading"
+    },
+    {
+        "children": [
+            {
+                "children": [],
+                "type": "heading"
+            },
+            {
+                "literal": "Hide the ",
+                "type": "text"
+            },
+            {
+                "children": [],
+                "type": "strong"
+            },
+            {
+                "literal": "\u2018skin\u2019",
+                "type": "text"
+            }
+        ],
+        "type": "heading"
+    },
+    {
+        "children": [
+            {
+                "literal": " model by clicking the eye icon.",
+                "type": "text"
+            }
+        ],
+        "type": "strong"
+    },
+    {
+        "children": [],
+        "type": "heading"
+    },
+    {
+        "children": [],
+        "type": "document"
+    }
+]

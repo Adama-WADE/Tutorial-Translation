@@ -1,6 +1,6 @@
 import commonmark
-                                                                            import json
-                                                                            
+import json
+                                                                          
 with open(r'C:\Users\Adama\Documents\Tutorial-Translation\Marp.md','r', encoding="utf-8") as fin:
     md = fin.read()
 
@@ -17,10 +17,11 @@ for item in jsonRoot:
 
 # AST object API is more complicated but necessary, as it includes row/column information for each block
 commonmark.dumpAST(ast) # pretty print generated AST structure
-
-paragraphs = ''
-for node in ast.walker():
-    if node[0].t == "paragraph":
-        paragraphs += " "
-        if node[0].first_child.literal:
-            paragraphs += node[0].first_child.literal + "\n"
+with open('output_ast.txt', 'w', encoding="utf-8") as fout:
+    paragraphs = ''
+    for node in ast.walker():
+        if node[0].t == "paragraph":
+            paragraphs += " "
+            if node[0].first_child.literal:
+                paragraphs += node[0].first_child.literal + "\n"
+        fout.write(paragraphs + '\n')

@@ -17,13 +17,7 @@ style: |
 
 ![3d slicer logo](images/3D-Slicer-logo.jpg)
 # 3D Slicer
-
-Now the slice views are linked. If you click the **‘Toggle slice visibility in 3D view’** button.
-Then all slices will show up.
-
-
-## Data Loading and Visualization Tutorial
-Tutoriel de chargement de données et de visualisation
+## Data Loading and <br> Visualization Tutorial
 
 ---
 <!-- footer: ![height:1.5cm](images/tinyPerk.jpg) ![height:1.5cm](images/tinyEbantica.jpg) "Laboratory for Percutaneous Surgery – Copyright © Queen’s University, 2022" ![height:1.5cm](images/tinySlicer.jpg) -->

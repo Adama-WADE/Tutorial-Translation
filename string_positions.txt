@@ -1,0 +1,2812 @@
+[document]
+	Title: 
+	Info: 
+	Destination: 
+	Sourcepos: [[1, 1], [140, 58]]
+	Info: 
+	Literal: 
+	Children:
+		-> [document]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[1, 1], [140, 58]]
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [thematic_break]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[1, 1], [1, 3]]
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [paragraph]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Last line blank: True
+			-> Sourcepos: [[2, 1], [12, 44]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: marp: true
+			-> Children:
+		-> [softbreak]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: theme: uncover
+			-> Children:
+		-> [softbreak]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: paginate: true
+			-> Children:
+		-> [softbreak]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: style: |
+			-> Children:
+		-> [softbreak]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: section{
+			-> Children:
+		-> [softbreak]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: width: 32cm;
+			-> Children:
+		-> [softbreak]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: height: 19cm;
+			-> Children:
+		-> [softbreak]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: justify-content: flex-start;
+			-> Children:
+		-> [softbreak]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: }
+			-> Children:
+		-> [softbreak]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: section.lead h6 {text-align: bottom;}
+			-> Children:
+		-> [softbreak]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: section.lead header {font-weight: bold;}
+			-> Children:
+		-> [paragraph]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Last line blank: True
+			-> Sourcepos: [[2, 1], [12, 44]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [thematic_break]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Last line blank: True
+			-> Sourcepos: [[14, 1], [14, 3]]
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [paragraph]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[18, 1], [18, 44]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [image]
+			-> Info: 
+			-> Destination: images/3D-Slicer-logo.jpg
+			-> Open: True
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: 3d slicer logo
+			-> Children:
+		-> [image]
+			-> Info: 
+			-> Destination: images/3D-Slicer-logo.jpg
+			-> Open: True
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [paragraph]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[18, 1], [18, 44]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [heading]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[19, 1], [19, 11]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: 3D Slicer
+			-> Children:
+		-> [heading]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[19, 1], [19, 11]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [heading]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Last line blank: True
+			-> Sourcepos: [[20, 1], [20, 47]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: Data Loading and 
+			-> Children:
+		-> [html_inline]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: <br>
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal:  Visualization Tutorial
+			-> Children:
+		-> [heading]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Last line blank: True
+			-> Sourcepos: [[20, 1], [20, 47]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [thematic_break]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[22, 1], [22, 3]]
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [html_block]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Last line blank: True
+			-> Sourcepos: [[23, 1], [23, 3]]
+			-> String content: 
+			-> Info: 
+			-> Literal: <!-- footer: ![height:1.5cm](images/tinyPerk.jpg) ![height:1.5cm](images/tinyEbantica.jpg) "Laboratory for Percutaneous Surgery – Copyright © Queen’s University, 2022" ![height:1.5cm](images/tinySlicer.jpg) -->
+			-> Children:
+		-> [heading]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Last line blank: True
+			-> Sourcepos: [[25, 1], [25, 18]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: Tutorial Dataset
+			-> Children:
+		-> [heading]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Last line blank: True
+			-> Sourcepos: [[25, 1], [25, 18]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [heading]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[27, 1], [27, 43]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: Please download the following datasets:
+			-> Children:
+		-> [heading]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[27, 1], [27, 43]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [paragraph]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Last line blank: True
+			-> Sourcepos: [[28, 1], [28, 96]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [link]
+			-> Info: 
+			-> Destination: https://github.com/PerkLab/PerkLabBootcamp/raw/master/Data/VisualizationTutorial_HeadScene.mrb
+			-> Open: True
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: https://github.com/PerkLab/PerkLabBootcamp/raw/master/Data/VisualizationTutorial_HeadScene.mrb
+			-> Children:
+		-> [link]
+			-> Info: 
+			-> Destination: https://github.com/PerkLab/PerkLabBootcamp/raw/master/Data/VisualizationTutorial_HeadScene.mrb
+			-> Open: True
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [paragraph]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Last line blank: True
+			-> Sourcepos: [[28, 1], [28, 96]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [thematic_break]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[30, 1], [30, 3]]
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [heading]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[31, 1], [31, 21]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: Main user interface
+			-> Children:
+		-> [heading]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[31, 1], [31, 21]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [paragraph]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Last line blank: True
+			-> Sourcepos: [[32, 1], [32, 34]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [image]
+			-> Info: 
+			-> Destination: images/Slide-3.jpg
+			-> Open: True
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: height:11cm
+			-> Children:
+		-> [image]
+			-> Info: 
+			-> Destination: images/Slide-3.jpg
+			-> Open: True
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [paragraph]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Last line blank: True
+			-> Sourcepos: [[32, 1], [32, 34]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [thematic_break]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[34, 1], [34, 3]]
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [heading]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[35, 1], [35, 22]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: Load Sample MRI Data
+			-> Children:
+		-> [heading]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[35, 1], [35, 22]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [paragraph]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Last line blank: True
+			-> Sourcepos: [[36, 1], [36, 34]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [image]
+			-> Info: 
+			-> Destination: images/Slide-4.jpg
+			-> Open: True
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: height:11cm
+			-> Children:
+		-> [image]
+			-> Info: 
+			-> Destination: images/Slide-4.jpg
+			-> Open: True
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [paragraph]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Last line blank: True
+			-> Sourcepos: [[36, 1], [36, 34]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [thematic_break]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[39, 1], [39, 3]]
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [heading]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[40, 1], [40, 22]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: Load Sample MRI Data
+			-> Children:
+		-> [heading]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[40, 1], [40, 22]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [paragraph]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Last line blank: True
+			-> Sourcepos: [[41, 1], [41, 34]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [image]
+			-> Info: 
+			-> Destination: images/Slide-5.jpg
+			-> Open: True
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: height:11cm
+			-> Children:
+		-> [image]
+			-> Info: 
+			-> Destination: images/Slide-5.jpg
+			-> Open: True
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [paragraph]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Last line blank: True
+			-> Sourcepos: [[41, 1], [41, 34]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [thematic_break]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[43, 1], [43, 3]]
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [html_block]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[44, 1], [44, 3]]
+			-> String content: 
+			-> Info: 
+			-> Literal: <!-- _class: lead -->
+			-> Children:
+		-> [paragraph]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[45, 1], [45, 44]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [image]
+			-> Info: 
+			-> Destination: images/Slide-6.png
+			-> Open: True
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal:  bg right height:11cm
+			-> Children:
+		-> [image]
+			-> Info: 
+			-> Destination: images/Slide-6.png
+			-> Open: True
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [paragraph]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[45, 1], [45, 44]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [heading]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[46, 1], [46, 23]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: Load Sample MRI Data
+			-> Children:
+		-> [heading]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[46, 1], [46, 23]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [heading]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Last line blank: True
+			-> Sourcepos: [[47, 1], [47, 83]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: The axial, sagittal, and coronal views automatically show  the loaded volume
+			-> Children:
+		-> [heading]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Last line blank: True
+			-> Sourcepos: [[47, 1], [47, 83]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [thematic_break]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[49, 1], [49, 3]]
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [heading]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[50, 1], [50, 22]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: Adjust window/level
+			-> Children:
+		-> [heading]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[50, 1], [50, 22]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [paragraph]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[51, 1], [51, 43]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [image]
+			-> Info: 
+			-> Destination: images/Slide-7.jpg
+			-> Open: True
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: bg right height:11cm
+			-> Children:
+		-> [image]
+			-> Info: 
+			-> Destination: images/Slide-7.jpg
+			-> Open: True
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [paragraph]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[51, 1], [51, 43]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [heading]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Last line blank: True
+			-> Sourcepos: [[52, 1], [52, 39]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: Switch to window/level mouse mode
+			-> Children:
+		-> [heading]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Last line blank: True
+			-> Sourcepos: [[52, 1], [52, 39]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [thematic_break]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[54, 1], [54, 3]]
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [heading]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[55, 1], [55, 22]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: Adjust window/level
+			-> Children:
+		-> [heading]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[55, 1], [55, 22]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [paragraph]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[56, 1], [56, 43]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [image]
+			-> Info: 
+			-> Destination: images/Slide-8.png
+			-> Open: True
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: bg right height:11cm
+			-> Children:
+		-> [image]
+			-> Info: 
+			-> Destination: images/Slide-8.png
+			-> Open: True
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [paragraph]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[56, 1], [56, 43]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [heading]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Last line blank: True
+			-> Sourcepos: [[57, 1], [57, 91]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: Adjust window/level (brightness/contrast) using the left mouse button on a slice view
+			-> Children:
+		-> [heading]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Last line blank: True
+			-> Sourcepos: [[57, 1], [57, 91]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [thematic_break]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[60, 1], [60, 3]]
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [heading]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[61, 1], [61, 38]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: Switch back to view/transform mode
+			-> Children:
+		-> [heading]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[61, 1], [61, 38]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [paragraph]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Last line blank: True
+			-> Sourcepos: [[62, 1], [62, 34]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [image]
+			-> Info: 
+			-> Destination: images/Slide-9.jpg
+			-> Open: True
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: height:11cm
+			-> Children:
+		-> [image]
+			-> Info: 
+			-> Destination: images/Slide-9.jpg
+			-> Open: True
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [paragraph]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Last line blank: True
+			-> Sourcepos: [[62, 1], [62, 34]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [thematic_break]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[64, 1], [64, 3]]
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [heading]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[65, 1], [65, 15]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: Maximize view
+			-> Children:
+		-> [heading]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[65, 1], [65, 15]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [paragraph]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Last line blank: True
+			-> Sourcepos: [[66, 1], [66, 35]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [image]
+			-> Info: 
+			-> Destination: images/Slide-10.jpg
+			-> Open: True
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: height:11cm
+			-> Children:
+		-> [image]
+			-> Info: 
+			-> Destination: images/Slide-10.jpg
+			-> Open: True
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [paragraph]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Last line blank: True
+			-> Sourcepos: [[66, 1], [66, 35]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [thematic_break]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[68, 1], [68, 3]]
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [heading]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[69, 1], [69, 20]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: Slice view options
+			-> Children:
+		-> [heading]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[69, 1], [69, 20]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [paragraph]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[70, 1], [70, 44]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [image]
+			-> Info: 
+			-> Destination: images/Slide-11.png
+			-> Open: True
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: bg right height:11cm
+			-> Children:
+		-> [image]
+			-> Info: 
+			-> Destination: images/Slide-11.png
+			-> Open: True
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [paragraph]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[70, 1], [70, 44]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [heading]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Last line blank: True
+			-> Sourcepos: [[71, 1], [71, 84]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: Position your mouse cursor over the pin icon to display the slice view toolbar
+			-> Children:
+		-> [heading]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Last line blank: True
+			-> Sourcepos: [[71, 1], [71, 84]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [thematic_break]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[73, 1], [73, 3]]
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [heading]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[74, 1], [74, 20]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: Slice view options
+			-> Children:
+		-> [heading]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[74, 1], [74, 20]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [paragraph]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[75, 1], [75, 45]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [image]
+			-> Info: 
+			-> Destination: images/Slide-12.jpg
+			-> Open: True
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal:  bg right height:11cm
+			-> Children:
+		-> [image]
+			-> Info: 
+			-> Destination: images/Slide-12.jpg
+			-> Open: True
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [paragraph]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[75, 1], [75, 45]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [heading]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Last line blank: True
+			-> Sourcepos: [[76, 1], [76, 64]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: Once the slice viewer toolbar is shown, click on the “>>”.
+			-> Children:
+		-> [heading]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Last line blank: True
+			-> Sourcepos: [[76, 1], [76, 64]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [thematic_break]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[78, 1], [78, 3]]
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [heading]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[79, 1], [79, 12]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: Show ruler
+			-> Children:
+		-> [heading]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[79, 1], [79, 12]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [paragraph]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Last line blank: True
+			-> Sourcepos: [[80, 1], [80, 35]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [image]
+			-> Info: 
+			-> Destination: images/Slide-13.jpg
+			-> Open: True
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: height:11cm
+			-> Children:
+		-> [image]
+			-> Info: 
+			-> Destination: images/Slide-13.jpg
+			-> Open: True
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [paragraph]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Last line blank: True
+			-> Sourcepos: [[80, 1], [80, 35]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [thematic_break]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[82, 1], [82, 3]]
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [heading]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[83, 1], [83, 28]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: Rotate to volume plane
+			-> Children:
+		-> [heading]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[83, 1], [83, 28]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [paragraph]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[84, 1], [84, 44]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [image]
+			-> Info: 
+			-> Destination: images/Slide-14.jpg
+			-> Open: True
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: bg right height:11cm
+			-> Children:
+		-> [image]
+			-> Info: 
+			-> Destination: images/Slide-14.jpg
+			-> Open: True
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [paragraph]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[84, 1], [84, 44]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [heading]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[85, 1], [85, 123]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: Often, MRI volumes are not axis-aligned. To show the true axial view, click the 
+			-> Children:
+		-> [strong]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: ‘Rotate to volume plane’
+			-> Children:
+		-> [strong]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal:  button.
+			-> Children:
+		-> [heading]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[85, 1], [85, 123]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [heading]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Last line blank: True
+			-> Sourcepos: [[86, 1], [86, 90]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: Note: This image will not be affected, but many DICOM MR images need to be aligned.
+			-> Children:
+		-> [heading]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Last line blank: True
+			-> Sourcepos: [[86, 1], [86, 90]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [thematic_break]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[88, 1], [88, 3]]
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [heading]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[89, 1], [89, 32]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: Switch to conventional layout
+			-> Children:
+		-> [heading]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[89, 1], [89, 32]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [paragraph]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Last line blank: True
+			-> Sourcepos: [[90, 1], [90, 35]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [image]
+			-> Info: 
+			-> Destination: images/Slide-15.jpg
+			-> Open: True
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: height:11cm
+			-> Children:
+		-> [image]
+			-> Info: 
+			-> Destination: images/Slide-15.jpg
+			-> Open: True
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [paragraph]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Last line blank: True
+			-> Sourcepos: [[90, 1], [90, 35]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [thematic_break]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[92, 1], [92, 3]]
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [heading]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[93, 1], [93, 12]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: Link views
+			-> Children:
+		-> [heading]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[93, 1], [93, 12]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [paragraph]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Last line blank: True
+			-> Sourcepos: [[94, 1], [95, 79]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [image]
+			-> Info: 
+			-> Destination: images/Slide-16.jpg
+			-> Open: True
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: bg right height:11cm
+			-> Children:
+		-> [image]
+			-> Info: 
+			-> Destination: images/Slide-16.jpg
+			-> Open: True
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [softbreak]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: After linking views, if any setting is changed in a 2D view, all others follow.
+			-> Children:
+		-> [paragraph]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Last line blank: True
+			-> Sourcepos: [[94, 1], [95, 79]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [thematic_break]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[97, 1], [97, 3]]
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [heading]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[98, 1], [98, 21]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: Show slices in 3D
+			-> Children:
+		-> [heading]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[98, 1], [98, 21]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [paragraph]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Last line blank: True
+			-> Sourcepos: [[99, 1], [100, 127]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [image]
+			-> Info: 
+			-> Destination: images/Slide-17.jpg
+			-> Open: True
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: bg right height:11cm
+			-> Children:
+		-> [image]
+			-> Info: 
+			-> Destination: images/Slide-17.jpg
+			-> Open: True
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [softbreak]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: Now the slice views are linked. If you click the 
+			-> Children:
+		-> [strong]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: ‘Toggle slice visibility in 3D view’
+			-> Children:
+		-> [strong]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal:  button, then all slices will show up.
+			-> Children:
+		-> [paragraph]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Last line blank: True
+			-> Sourcepos: [[99, 1], [100, 127]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [thematic_break]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[102, 1], [102, 3]]
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [heading]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[103, 1], [103, 19]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: Show slices in 3D
+			-> Children:
+		-> [heading]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[103, 1], [103, 19]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [paragraph]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Last line blank: True
+			-> Sourcepos: [[104, 1], [105, 53]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [image]
+			-> Info: 
+			-> Destination: images/Slide-18.png
+			-> Open: True
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: bg right height:11cm
+			-> Children:
+		-> [image]
+			-> Info: 
+			-> Destination: images/Slide-18.png
+			-> Open: True
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [softbreak]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: All three anatomical slices are shown in the 3D view.
+			-> Children:
+		-> [paragraph]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Last line blank: True
+			-> Sourcepos: [[104, 1], [105, 53]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [thematic_break]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[107, 1], [107, 3]]
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [heading]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[108, 1], [108, 24]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: Navigating the 3D view
+			-> Children:
+		-> [heading]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[108, 1], [108, 24]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [paragraph]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Last line blank: True
+			-> Sourcepos: [[109, 1], [110, 91]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [image]
+			-> Info: 
+			-> Destination: images/Slide-19.png
+			-> Open: True
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: bg right height:11cm
+			-> Children:
+		-> [image]
+			-> Info: 
+			-> Destination: images/Slide-19.png
+			-> Open: True
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [softbreak]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: Use the left mouse button to 
+			-> Children:
+		-> [strong]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: rotate
+			-> Children:
+		-> [strong]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: , and the right mouse button to 
+			-> Children:
+		-> [strong]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: zoom
+			-> Children:
+		-> [strong]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal:  in and out.
+			-> Children:
+		-> [paragraph]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Last line blank: True
+			-> Sourcepos: [[109, 1], [110, 91]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [thematic_break]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[112, 1], [112, 3]]
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [heading]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[113, 1], [113, 17]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: Close the scene
+			-> Children:
+		-> [heading]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[113, 1], [113, 17]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [paragraph]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Last line blank: True
+			-> Sourcepos: [[114, 1], [114, 35]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [image]
+			-> Info: 
+			-> Destination: images/Slide-20.jpg
+			-> Open: True
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: height:11cm
+			-> Children:
+		-> [image]
+			-> Info: 
+			-> Destination: images/Slide-20.jpg
+			-> Open: True
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [paragraph]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Last line blank: True
+			-> Sourcepos: [[114, 1], [114, 35]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [thematic_break]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[116, 1], [116, 3]]
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [heading]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[117, 1], [117, 59]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: Part 2: 3D visualization of surface models of the brain
+			-> Children:
+		-> [heading]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[117, 1], [117, 59]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [paragraph]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Last line blank: True
+			-> Sourcepos: [[118, 1], [118, 35]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [image]
+			-> Info: 
+			-> Destination: images/Slide-21.png
+			-> Open: True
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: height:11cm
+			-> Children:
+		-> [image]
+			-> Info: 
+			-> Destination: images/Slide-21.png
+			-> Open: True
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [paragraph]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Last line blank: True
+			-> Sourcepos: [[118, 1], [118, 35]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [thematic_break]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[120, 1], [120, 3]]
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [heading]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[121, 1], [121, 24]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: Load tutorial scene
+			-> Children:
+		-> [heading]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[121, 1], [121, 24]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [paragraph]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Last line blank: True
+			-> Sourcepos: [[122, 1], [123, 90]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [image]
+			-> Info: 
+			-> Destination: images/Slide-22.jpg
+			-> Open: True
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: bg right height:11cm
+			-> Children:
+		-> [image]
+			-> Info: 
+			-> Destination: images/Slide-22.jpg
+			-> Open: True
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [softbreak]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: Drag and drop the file VisualizationTutorial
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: _
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: HeadScene.mrb into Slicer, then click 
+			-> Children:
+		-> [strong]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: OK
+			-> Children:
+		-> [strong]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: .
+			-> Children:
+		-> [paragraph]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Last line blank: True
+			-> Sourcepos: [[122, 1], [123, 90]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [thematic_break]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[125, 1], [125, 3]]
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [heading]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[126, 1], [126, 13]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: Center view
+			-> Children:
+		-> [heading]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[126, 1], [126, 13]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [paragraph]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Last line blank: True
+			-> Sourcepos: [[127, 1], [128, 62]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [image]
+			-> Info: 
+			-> Destination: images/Slide-23.jpg
+			-> Open: True
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: bg right height:11cm
+			-> Children:
+		-> [image]
+			-> Info: 
+			-> Destination: images/Slide-23.jpg
+			-> Open: True
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [softbreak]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: Click on the small box icon to center the view, in 3D or in 2D
+			-> Children:
+		-> [paragraph]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Last line blank: True
+			-> Sourcepos: [[127, 1], [128, 62]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [thematic_break]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[130, 1], [130, 3]]
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [heading]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[131, 1], [131, 22]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: Explore loaded data
+			-> Children:
+		-> [heading]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[131, 1], [131, 22]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [paragraph]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Last line blank: True
+			-> Sourcepos: [[132, 1], [133, 92]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [image]
+			-> Info: 
+			-> Destination: images/Slide-24.jpg
+			-> Open: True
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: bg right height:11cm
+			-> Children:
+		-> [image]
+			-> Info: 
+			-> Destination: images/Slide-24.jpg
+			-> Open: True
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [softbreak]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: You can use the module list, or the favorite module toolbar to switch to the 
+			-> Children:
+		-> [strong]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: Data module
+			-> Children:
+		-> [strong]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [paragraph]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Last line blank: True
+			-> Sourcepos: [[132, 1], [133, 92]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [thematic_break]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[135, 1], [135, 3]]
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [heading]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[136, 1], [136, 24]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: Explore loaded data
+			-> Children:
+		-> [heading]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[136, 1], [136, 24]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [paragraph]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[137, 1], [137, 44]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [image]
+			-> Info: 
+			-> Destination: images/Slide-25.jpg
+			-> Open: True
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: bg right height:11cm
+			-> Children:
+		-> [image]
+			-> Info: 
+			-> Destination: images/Slide-25.jpg
+			-> Open: True
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [paragraph]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[137, 1], [137, 44]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [heading]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[138, 1], [138, 55]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: The Data module shows all the data in the scene.
+			-> Children:
+		-> [heading]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[138, 1], [138, 55]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [heading]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[139, 1], [139, 83]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: The data items (“nodes”) can be shown/hidden, renamed, deleted, cloned, etc.
+			-> Children:
+		-> [heading]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[139, 1], [139, 83]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [heading]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[140, 1], [140, 58]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: Hide the 
+			-> Children:
+		-> [strong]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: ‘skin’
+			-> Children:
+		-> [strong]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [text]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Open: True
+			-> Info: 
+			-> Literal:  model by clicking the eye icon.
+			-> Children:
+		-> [heading]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[140, 1], [140, 58]]
+			-> String content: 
+			-> Info: 
+			-> Literal: 
+			-> Children:
+		-> [document]
+			-> Title: 
+			-> Info: 
+			-> Destination: 
+			-> Sourcepos: [[1, 1], [140, 58]]
+			-> Info: 
+			-> Literal: 
+			-> Children:
