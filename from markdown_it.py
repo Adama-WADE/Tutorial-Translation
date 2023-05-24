@@ -7,9 +7,9 @@ with open(r'C:\Users\Adama\Documents\Tutorial-Translation\Marp.md','r', encoding
 md = MarkdownIt("commonmark")
 tokens = md.parse(md_)
 
-node = SyntaxTreeNode(tokens)
+treeRoot = SyntaxTreeNode(tokens)
 #print(node.pretty(indent=2, show_text=True))
-print(node.children[1].children[0].content)
+print(treeRoot.children[1].children[0].content)
 
 """
 # Header

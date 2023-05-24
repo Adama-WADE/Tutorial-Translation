@@ -23,7 +23,6 @@ Then all slices will show up.
 
 
 ## Data Loading and Visualization Tutorial
-Tutoriel de chargement de données et de visualisation
 
 ---
 <!-- footer: ![height:1.5cm](images/tinyPerk.jpg) ![height:1.5cm](images/tinyEbantica.jpg) "Laboratory for Percutaneous Surgery – Copyright © Queen’s University, 2022" ![height:1.5cm](images/tinySlicer.jpg) -->
