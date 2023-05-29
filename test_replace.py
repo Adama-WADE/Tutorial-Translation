@@ -1,21 +1,13 @@
-from markdown_it import MarkdownIt
-from markdown_it.rules_inline import StateInline
+source = 'abcd'
+translation = 'ram'
 
-def replace_foo(state: StateInline, silent: bool):
-    content = state.src[state.pos:]
-    if content.startswith('foo'):
-        state.pos += len('foo')
-        state.push('text', '', 0).content = 'bar'
-    return True
+# Read in the file
+with open('file.txt', 'r') as file :
+  filedata = file.read()
 
-md = MarkdownIt()
-md.inline.ruler.before('text', 'foo_replace', replace_foo)
+# Replace the target string
+filedata = filedata.replace(source, translation)
 
-text = "This is some foo text."
-result = md.render(text)
-print(result)
-
-replace_foo(state: StateInline, silent: bool):
-
-
-md.replace("fasdfas", "asdfasdf")
+# Write the file out again
+with open('file.txt', 'w') as file:
+  file.write(filedata)

@@ -9,28 +9,24 @@ print(ts_root[0][1][0].tag, ts_root[0][1][0].attrib)
 
 
 #Markdown parsing
-with open('Marp_french.md', 'r', encoding="utf-8") as f: 
+""" with open('Marp_french.md', 'r', encoding="utf-8") as f: 
             md = f.read()
             parser = MarkdownIt("commonmark")
             tokens = parser.parse(md,)
-            md_root = SyntaxTreeNode(tokens)
+            md_root = SyntaxTreeNode(tokens) """
 
+def replace_strings_in_markdown(markdown_file, translation_tree):
+    with open(markdown_file, 'r', encoding='utf-8') as f:
+        markdown_text = f.read()
 
-def translate_tree(node, translation_tree):
-    print(node.type)
-    if node.type == "text":
-        # print(node.content)
-        for translation_node in ts_root[0].findall('message'):
-            source = translation_node.find('source').text
-            # print(source)
-            translation = translation_node.find('translation').text
-            print(translation)
-            if source == node.content:
-                node.content = translation
-                break
+    for message_node in translation_tree[0].findall('message'):
+        source = message_node.find('source').text
+        print(source)
+        translation = message_node.find('translation').text
+        print(translation)
+        markdown_text = markdown_text.replace(source, translation)
 
-    for child_node in node.children:
-        if isinstance(child_node, SyntaxTreeNode):
-            translate_tree(child_node, translation_tree)
+    with open(markdown_file, 'w', encoding='utf-8') as f:
+        f.write(markdown_text)
 
-translate_tree(md_root, ts_root) 
+replace_strings_in_markdown('Marp_french.md', ts_root)

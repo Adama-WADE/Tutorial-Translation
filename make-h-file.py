@@ -21,32 +21,33 @@ tokens = md.parse(md_)
 # jsonRoot = json.loads(commonmark.dumpJSON(ast))
 treeRoot = SyntaxTreeNode(tokens)
 
-# with open('output.txt', 'w', encoding="utf-8") as fout:
-#     for item in jsonRoot:
-#         if item['children']:
-#             for childItem in item['children']:
-#                 if "literal" in childItem:
-#                     fout.write(childItem["literal"] + '\n')
+#variable to count the number of horizontal rules
+hr_count = 0
+between_hr = True
 
-# # Write to test.h
-# with open('output.txt', 'r', encoding="utf-8") as fin, open('test.h', 'w', encoding="utf-8") as fout:
-#     for line in fin:
-#         curr_line = line.strip()
-#         fout.write('QT_TRANSLATE_NOOP::tr("' + curr_line + '")\n')
+def extract_text(node):
+    global hr_count, between_hr
+    if node.type == "hr":
+        hr_count += 1
+        if hr_count == 2:
+            between_hr = False
 
-# Write literal content to output.txt
-# Write literal content to output.txt
-with open('output.txt', 'w', encoding="utf-8") as fout:
-    def extract_text(node):
-        print(node.type)
-        if node.type == "text":
+    if between_hr:
+        if node.type == "inline" and not any(child.type == "image" for child in node.children):
+            fout.write('\n')  # Write an empty line for inline elements between the first and second "hr" elements
+    else:
+        if node.type == "inline" and not any(child.type == "image" for child in node.children):
             fout.write(node.content + '\n')
-        for child in node.children:
-            if isinstance(child, SyntaxTreeNode) and child.type != "image":
-                extract_text(child)
+
+    for child in node.children:
+        if isinstance(child, SyntaxTreeNode) and child.type != "image":
+            extract_text(child)
+
+    
+with open('output1.txt', 'w', encoding="utf-8") as fout:       
     extract_text(treeRoot)
 # Write to test.h
-with open('output.txt', 'r', encoding="utf-8") as fin, open('test.h', 'w', encoding="utf-8") as fout:
+with open('output1.txt', 'r', encoding="utf-8") as fin, open('test.h', 'w', encoding="utf-8") as fout:
     for line in fin:
         curr_line = line.strip()
         fout.write('QT_TRANSLATE_NOOP("Data Visualization Tutorial", "' + curr_line + '")\n')
